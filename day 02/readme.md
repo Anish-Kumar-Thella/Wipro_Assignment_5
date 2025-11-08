@@ -1,0 +1,1 @@
+Day 2: Create a script to perform system updates and clean up. 
