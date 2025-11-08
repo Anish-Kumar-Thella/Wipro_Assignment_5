@@ -1,0 +1,1 @@
+Day 3: Develop a log monitoring script to alert on certain conditions.
