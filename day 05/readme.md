@@ -1,0 +1,1 @@
+Day 5: Test scripts and add error handling and logging functionalities. 
