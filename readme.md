@@ -4,11 +4,14 @@ Bash Scripting Suite for System Maintenance
 
 Objective: Write a suite of Bash scripts to 
 automate system maintenance tasks such as 
+
 backup, system updates, and log monitoring. 
 
 Day-wise Tasks:
 
 Day 1: Write a script for automated system backups.
+[View Docs Folder](https://github.com/username/repo-name/tree/branch-name/docs)
+
 
 Day 2: Create a script to perform system updates and clean up.
 
